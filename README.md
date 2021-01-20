@@ -2,7 +2,7 @@
 
 ### About Me 👨‍💻
 
-Aspiring Software Engineer with an interest in web development. I have been coding for the past 10 years when I started my bachelor's in Software Engineering. As far as web development in concerned, I have been working primarily with Agile/DevOps methofology.
+Software Engineer with an interest in web development. I have been coding for the past 10 years when I started my bachelor's in Software Engineering. As far as web development in concerned, I have been working primarily with Agile/DevOps methofology.
 
 ### Tech Stack 🧱
 
